@@ -311,8 +311,7 @@
                                     .then(data => {
                                     const hitokoto = document.getElementById('hitokoto_text')
                                     hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-                                    hitokoto.innerText = data.hitokoto
-                                    })
+                                    hitokoto.innerText = '善建者行,成其久远...'                                    })
                                     .catch(console.error)
                             </script>
                             <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
