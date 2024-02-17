@@ -7,7 +7,7 @@
 
 ## 在线预览
 
-https://awesome-project-repo.github.io/web_portal/
+https://awesome-projects-repo.github.io/web_portal/
 
 
 ## 二次开发
